@@ -6,6 +6,7 @@ class Program
     {
         Console.WriteLine("Hello Git!");
         Console.WriteLine(DoSomething("Alfred"));
+        Console.WriteLine("Nisse was here");
     }
 
 
