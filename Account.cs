@@ -8,6 +8,6 @@ public class Account
     public void Deposit(int amount)
     {
         Console.WriteLine("Nisse was here");
-        Console.WriteLine("Ooooops inte bra");
+        Console.WriteLine("Michael was here");
     }
 }
